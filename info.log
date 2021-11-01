@@ -1,0 +1,178 @@
+2021-10-17T11:21:25.582Z [Bioler Plate] [32minfo[39m: Info  this is working
+2021-10-17T11:21:25.582Z [Bioler Plate] [31merror[39m: Error this is not working
+2021-10-17T11:22:36.832Z [Bioler Plate] [32minfo[39m: the app is restarted atSun Oct 17 2021 14:22:36 GMT+0300 (East Africa Time)
+2021-10-17T11:22:36.836Z [Bioler Plate] [33mwarn[39m: the app is running on local host: 3000
+2021-10-17T11:22:39.161Z [Bioler Plate] [32minfo[39m: Info  this is working
+2021-10-17T11:23:20.228Z [Bioler Plate] [32minfo[39m: Info  this is working
+2021-10-17T11:23:28.531Z [Bioler Plate] [32minfo[39m: Info  this is working
+2021-10-17T11:42:28.907Z [Bioler Plate] [32minfo[39m: the app is restarted atSun Oct 17 2021 14:42:28 GMT+0300 (East Africa Time)
+2021-10-17T11:42:28.911Z [Bioler Plate] [33mwarn[39m: the app is running on local host: 3000
+2021-10-18T12:16:58.048Z [Bioler Plate] [32minfo[39m: the app is restarted atMon Oct 18 2021 15:16:57 GMT+0300 (East Africa Time)
+2021-10-18T12:16:58.052Z [Bioler Plate] [33mwarn[39m: the app is running on http://localhost: 3000
+2021-10-18T12:17:48.585Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost: 3000Mon Oct 18 2021 15:17:48 GMT+0300 (East Africa Time)
+2021-10-18T12:20:26.166Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Oct 18 2021 15:20:26 GMT+0300 (East Africa Time)
+2021-10-18T12:20:45.786Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Oct 18 2021 15:20:45 GMT+0300 (East Africa Time)
+2021-10-18T19:24:23.369Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Oct 18 2021 22:24:23 GMT+0300 (East Africa Time)
+2021-10-18T20:08:03.139Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Oct 18 2021 23:08:03 GMT+0300 (East Africa Time)
+2021-10-18T20:12:19.363Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Oct 18 2021 23:12:19 GMT+0300 (East Africa Time)
+2021-10-18T20:15:55.865Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Oct 18 2021 23:15:55 GMT+0300 (East Africa Time)
+2021-10-18T20:22:06.892Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Oct 18 2021 23:22:06 GMT+0300 (East Africa Time)
+2021-10-18T20:28:01.259Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Oct 18 2021 23:28:01 GMT+0300 (East Africa Time)
+2021-10-18T20:29:25.546Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Oct 18 2021 23:29:25 GMT+0300 (East Africa Time)
+2021-10-18T20:30:39.616Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Oct 18 2021 23:30:39 GMT+0300 (East Africa Time)
+2021-10-18T20:35:28.369Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Oct 18 2021 23:35:28 GMT+0300 (East Africa Time)
+2021-10-18T20:36:43.398Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Oct 18 2021 23:36:43 GMT+0300 (East Africa Time)
+2021-10-18T21:05:09.579Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 00:05:09 GMT+0300 (East Africa Time)
+2021-10-18T21:10:00.739Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 00:10:00 GMT+0300 (East Africa Time)
+2021-10-18T21:32:32.009Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 00:32:32 GMT+0300 (East Africa Time)
+2021-10-18T21:32:34.919Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-18T21:32:47.985Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-18T21:35:21.442Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 00:35:21 GMT+0300 (East Africa Time)
+2021-10-18T21:35:24.645Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-18T21:50:45.909Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 00:50:45 GMT+0300 (East Africa Time)
+2021-10-18T21:50:49.052Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-18T21:52:04.378Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 00:52:04 GMT+0300 (East Africa Time)
+2021-10-18T21:52:07.608Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-18T21:52:32.649Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-18T21:53:44.492Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 00:53:44 GMT+0300 (East Africa Time)
+2021-10-18T21:53:53.365Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-19T08:09:13.146Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 11:09:13 GMT+0300 (East Africa Time)
+2021-10-19T08:09:26.380Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-19T08:36:00.702Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 11:36:00 GMT+0300 (East Africa Time)
+2021-10-19T08:36:06.663Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-19T10:28:06.556Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 13:28:06 GMT+0300 (East Africa Time)
+2021-10-19T10:28:17.225Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-19T10:28:33.098Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-19T10:28:35.876Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-19T10:32:03.893Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 13:32:03 GMT+0300 (East Africa Time)
+2021-10-19T10:32:11.605Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-19T10:32:19.618Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-19T10:32:24.858Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-19T10:33:09.671Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-19T10:33:16.849Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-19T10:39:59.498Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 13:39:59 GMT+0300 (East Africa Time)
+2021-10-19T10:40:04.265Z [Bioler Plate] [32minfo[39m: creating the user
+2021-10-19T11:57:39.620Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 14:57:39 GMT+0300 (East Africa Time)
+2021-10-19T11:57:45.322Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T11:57:45.324Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-19T12:09:13.997Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 15:09:13 GMT+0300 (East Africa Time)
+2021-10-19T12:09:17.207Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T12:09:17.207Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-19T12:17:41.206Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 15:17:41 GMT+0300 (East Africa Time)
+2021-10-19T17:26:13.909Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 20:26:13 GMT+0300 (East Africa Time)
+2021-10-19T17:47:18.578Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 20:47:18 GMT+0300 (East Africa Time)
+2021-10-19T17:47:23.789Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T17:47:35.089Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T17:47:35.093Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-19T17:47:51.641Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T17:47:51.642Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-19T17:48:06.776Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T17:48:20.686Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T17:48:28.671Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T17:48:28.672Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-19T17:48:36.723Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T17:48:43.205Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T17:49:24.401Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T17:49:24.402Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-19T17:49:27.366Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T17:49:29.077Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T17:49:37.748Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T17:49:46.216Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T20:19:21.580Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 23:19:21 GMT+0300 (East Africa Time)
+2021-10-19T20:19:32.695Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T20:19:32.696Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-19T20:28:53.562Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 23:28:53 GMT+0300 (East Africa Time)
+2021-10-19T20:29:57.170Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T20:29:57.171Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-19T20:42:22.580Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 23:42:22 GMT+0300 (East Africa Time)
+2021-10-19T20:46:07.622Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 23:46:07 GMT+0300 (East Africa Time)
+2021-10-19T20:47:09.913Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 23:47:09 GMT+0300 (East Africa Time)
+2021-10-19T20:48:56.911Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 23:48:56 GMT+0300 (East Africa Time)
+2021-10-19T20:53:12.404Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 23:53:12 GMT+0300 (East Africa Time)
+2021-10-19T20:58:14.320Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Oct 19 2021 23:58:14 GMT+0300 (East Africa Time)
+2021-10-19T21:01:12.658Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-19T21:01:12.659Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-19T21:01:14.062Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-20T05:13:06.623Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Wed Oct 20 2021 08:13:05 GMT+0300 (East Africa Time)
+2021-10-20T07:47:34.728Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Wed Oct 20 2021 10:47:34 GMT+0300 (East Africa Time)
+2021-10-20T07:51:17.527Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Wed Oct 20 2021 10:51:17 GMT+0300 (East Africa Time)
+2021-10-20T07:56:33.931Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Wed Oct 20 2021 10:56:33 GMT+0300 (East Africa Time)
+2021-10-20T07:58:48.083Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Wed Oct 20 2021 10:58:48 GMT+0300 (East Africa Time)
+2021-10-20T07:59:24.989Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Wed Oct 20 2021 10:59:24 GMT+0300 (East Africa Time)
+2021-10-20T08:00:35.108Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Wed Oct 20 2021 11:00:35 GMT+0300 (East Africa Time)
+2021-10-20T08:01:24.494Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Wed Oct 20 2021 11:01:24 GMT+0300 (East Africa Time)
+2021-10-20T08:42:59.154Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Wed Oct 20 2021 11:42:59 GMT+0300 (East Africa Time)
+2021-10-20T08:44:52.585Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Wed Oct 20 2021 11:44:52 GMT+0300 (East Africa Time)
+2021-10-20T08:45:52.443Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Wed Oct 20 2021 11:45:52 GMT+0300 (East Africa Time)
+2021-10-20T08:47:48.221Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Wed Oct 20 2021 11:47:48 GMT+0300 (East Africa Time)
+2021-10-20T08:48:23.713Z [Bioler Plate] [32minfo[39m: delete user
+2021-10-20T21:16:11.718Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Thu Oct 21 2021 00:16:11 GMT+0300 (East Africa Time)
+2021-10-20T21:16:16.928Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-20T21:16:16.929Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-21T08:25:28.503Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Thu Oct 21 2021 11:25:28 GMT+0300 (East Africa Time)
+2021-10-21T14:16:39.093Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Thu Oct 21 2021 17:16:39 GMT+0300 (East Africa Time)
+2021-10-21T14:32:48.477Z [Bioler Plate] [32minfo[39m: delete user
+2021-10-21T14:32:55.080Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-21T14:32:55.081Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-22T11:19:19.019Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Fri Oct 22 2021 14:19:19 GMT+0300 (East Africa Time)
+2021-10-22T11:21:37.085Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T11:21:37.086Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-22T11:31:19.039Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Fri Oct 22 2021 14:31:19 GMT+0300 (East Africa Time)
+2021-10-22T11:31:51.422Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T11:31:51.424Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-22T11:33:01.456Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T11:33:28.542Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T11:33:28.543Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-22T11:59:45.777Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Fri Oct 22 2021 14:59:45 GMT+0300 (East Africa Time)
+2021-10-22T12:00:30.207Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T12:00:30.208Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-22T12:00:34.555Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T14:10:14.120Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Fri Oct 22 2021 17:10:14 GMT+0300 (East Africa Time)
+2021-10-22T14:12:11.633Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Fri Oct 22 2021 17:12:11 GMT+0300 (East Africa Time)
+2021-10-22T14:23:31.090Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Fri Oct 22 2021 17:23:31 GMT+0300 (East Africa Time)
+2021-10-22T14:24:29.255Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T14:24:29.256Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-22T14:39:52.281Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Fri Oct 22 2021 17:39:52 GMT+0300 (East Africa Time)
+2021-10-22T14:40:17.196Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T14:40:17.197Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-22T14:41:00.566Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T20:42:41.835Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Fri Oct 22 2021 23:42:41 GMT+0300 (East Africa Time)
+2021-10-22T20:56:39.919Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Fri Oct 22 2021 23:56:39 GMT+0300 (East Africa Time)
+2021-10-22T21:10:35.906Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Sat Oct 23 2021 00:10:35 GMT+0300 (East Africa Time)
+2021-10-22T21:10:43.337Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T21:10:43.339Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-22T21:10:47.316Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T21:10:51.580Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T21:15:55.442Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Sat Oct 23 2021 00:15:55 GMT+0300 (East Africa Time)
+2021-10-22T21:49:10.318Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T21:49:10.319Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-22T21:49:13.603Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T21:49:49.431Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T21:49:49.432Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-22T21:53:48.737Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T21:55:57.311Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Sat Oct 23 2021 00:55:57 GMT+0300 (East Africa Time)
+2021-10-22T21:56:02.178Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T21:56:02.179Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-22T21:57:19.166Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Sat Oct 23 2021 00:57:19 GMT+0300 (East Africa Time)
+2021-10-22T21:57:22.961Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-22T21:57:22.962Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-22T21:57:24.517Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-31T11:58:51.466Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Sun Oct 31 2021 14:58:51 GMT+0300 (East Africa Time)
+2021-10-31T12:00:08.055Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-31T12:00:08.056Z [Bioler Plate] [32minfo[39m: creating user
+2021-10-31T12:00:18.195Z [Bioler Plate] [32minfo[39m: calling create user
+2021-10-31T20:37:08.496Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Sun Oct 31 2021 23:37:08 GMT+0300 (East Africa Time)
+2021-10-31T20:58:57.939Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Sun Oct 31 2021 23:58:57 GMT+0300 (East Africa Time)
+2021-10-31T21:03:23.529Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Nov 01 2021 00:03:23 GMT+0300 (East Africa Time)
+2021-10-31T21:07:45.666Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Nov 01 2021 00:07:45 GMT+0300 (East Africa Time)
+2021-10-31T21:13:37.970Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Nov 01 2021 00:13:37 GMT+0300 (East Africa Time)
+2021-10-31T21:15:02.015Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Nov 01 2021 00:15:02 GMT+0300 (East Africa Time)
+2021-10-31T21:15:05.691Z [Bioler Plate] [32minfo[39m: Athentication on email cali and password jjjj
+2021-10-31T21:15:07.581Z [Bioler Plate] [32minfo[39m: Athentication on email cali and password jjjj
+2021-10-31T21:17:18.053Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Nov 01 2021 00:17:18 GMT+0300 (East Africa Time)
+2021-10-31T21:17:22.156Z [Bioler Plate] [32minfo[39m: Athentication on email cali and password jjjj
+2021-10-31T21:17:23.705Z [Bioler Plate] [32minfo[39m: Athentication on email cali and password jjjj
+2021-10-31T21:20:39.619Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Nov 01 2021 00:20:39 GMT+0300 (East Africa Time)
+2021-10-31T21:24:24.951Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Nov 01 2021 00:24:24 GMT+0300 (East Africa Time)
+2021-10-31T21:24:28.035Z [Bioler Plate] [32minfo[39m: Athentication on email cali and password jjjj
+2021-10-31T21:25:52.080Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Mon Nov 01 2021 00:25:52 GMT+0300 (East Africa Time)

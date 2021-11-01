@@ -1,0 +1,52 @@
+2021-10-16T11:48:55.281Z [Bioler plate] [32minfo[39m: this is info winton
+2021-10-16T11:48:55.282Z [Bioler plate] [31merror[39m: Error this is info winton
+2021-10-16T11:49:33.615Z [Bioler plate] [32minfo[39m: the app is restarted atSat Oct 16 2021 14:49:33 GMT+0300 (East Africa Time)
+2021-10-16T11:49:40.957Z [Bioler plate] [32minfo[39m: this is info winton
+2021-10-16T11:49:40.958Z [Bioler plate] [31merror[39m: Error this is info winton
+2021-10-16T11:50:28.657Z [Bioler plate] [32minfo[39m: this is info winton
+2021-10-16T11:50:28.658Z [Bioler plate] [31merror[39m: Error this is info winton
+2021-10-16T11:51:02.021Z [Bioler plate] [32minfo[39m: this is info winton
+2021-10-16T11:51:02.022Z [Bioler plate] [31merror[39m: Error this is info winton
+2021-10-16T11:52:52.572Z [Bioler plate] [32minfo[39m: this is info winton
+2021-10-16T11:52:52.572Z [Bioler plate] [31merror[39m: Error this is info winton
+2021-10-16T11:59:57.843Z [Bioler plate] [32minfo[39m: this is info winton
+2021-10-16T11:59:57.843Z [Bioler plate] [31merror[39m: Error this is info winton
+2021-10-16T12:03:35.061Z [Bioler plate] [32minfo[39m: the app is restarted atSat Oct 16 2021 15:03:35 GMT+0300 (East Africa Time)
+2021-10-16T12:03:38.482Z [Bioler plate] [32minfo[39m: Info this is info winton
+2021-10-16T12:03:38.482Z [Bioler plate] [31merror[39m: Error this is info winton
+2021-10-16T19:04:07.162Z [Bioler plate] [32minfo[39m: the app is restarted atSat Oct 16 2021 22:04:07 GMT+0300 (East Africa Time)
+2021-10-16T19:04:36.582Z [Bioler plate] [32minfo[39m: Info this is info winton
+2021-10-16T19:04:36.583Z [Bioler plate] [31merror[39m: Error this is info winton
+2021-10-16T19:08:37.254Z [Bioler plate] [32minfo[39m: the app is restarted atSat Oct 16 2021 22:08:37 GMT+0300 (East Africa Time)
+2021-10-16T19:10:41.686Z [Bioler plate] [32minfo[39m: the app is restarted atSat Oct 16 2021 22:10:41 GMT+0300 (East Africa Time)
+2021-10-16T19:10:41.690Z [Bioler plate] [32minfo[39m: the app is running on local host: 3000
+2021-10-16T19:11:32.006Z [Bioler plate] [32minfo[39m: the app is restarted atSat Oct 16 2021 22:11:32 GMT+0300 (East Africa Time)
+2021-10-16T19:13:29.278Z [Bioler plate] [32minfo[39m: the app is restarted atSat Oct 16 2021 22:13:29 GMT+0300 (East Africa Time)
+2021-10-16T19:13:50.989Z [Bioler plate] [32minfo[39m: the app is restarted atSat Oct 16 2021 22:13:50 GMT+0300 (East Africa Time)
+2021-10-16T19:13:50.993Z [Bioler plate] [33mwarn[39m: the app is running on local host: 3000
+2021-10-16T19:15:07.291Z [Bioler plate] [32minfo[39m: the app is restarted atSat Oct 16 2021 22:15:07 GMT+0300 (East Africa Time)
+2021-10-16T19:15:07.296Z [Bioler plate] [33mwarn[39m: the app is running on local host: 3000
+2021-10-16T19:15:38.786Z [Bioler plate] [32minfo[39m: the app is restarted atSat Oct 16 2021 22:15:38 GMT+0300 (East Africa Time)
+2021-10-16T19:15:38.790Z [Bioler plate] [33mwarn[39m: the app is running on local host: 3000
+2021-10-16T19:16:11.453Z [Bioler plate] [32minfo[39m: the app is restarted atSat Oct 16 2021 22:16:11 GMT+0300 (East Africa Time)
+2021-10-16T19:16:11.456Z [Bioler plate] [33mwarn[39m: the app is running on local host: 3000
+2021-10-16T19:16:32.926Z [Bioler plate] [32minfo[39m: Info this is info winton
+2021-10-16T19:16:32.927Z [Bioler plate] [31merror[39m: Error this is info winton
+2021-10-16T19:18:23.348Z [Bioler plate] [32minfo[39m: the app is restarted atSat Oct 16 2021 22:18:23 GMT+0300 (East Africa Time)
+2021-10-16T19:18:23.352Z [Bioler plate] [33mwarn[39m: the app is running on local host: 3000
+2021-10-16T19:20:25.411Z [Bioler plate] [32minfo[39m: Info this is working
+2021-10-16T19:20:25.412Z [Bioler plate] [31merror[39m: Error this is not working
+2021-10-16T19:20:33.552Z [Bioler plate] [32minfo[39m: Info this is working
+2021-10-16T19:20:33.553Z [Bioler plate] [31merror[39m: Error this is not working
+2021-10-16T19:22:38.595Z [Bioler plate] [32minfo[39m: Info the app is restarted atSat Oct 16 2021 22:22:38 GMT+0300 (East Africa Time)
+2021-10-16T19:22:38.598Z [Bioler plate] [33mwarn[39m: Warn the app is running on local host: 3000
+2021-10-16T19:45:59.098Z [Bioler plate] [32minfo[39m: the app is restarted atSat Oct 16 2021 22:45:59 GMT+0300 (East Africa Time)
+2021-10-16T19:45:59.101Z [Bioler plate] [33mwarn[39m: the app is running on local host: 3000
+2021-10-17T09:37:47.998Z [Bioler plate] [32minfo[39m: the app is restarted atSun Oct 17 2021 12:37:47 GMT+0300 (East Africa Time)
+2021-10-17T09:37:48.001Z [Bioler plate] [33mwarn[39m: the app is running on local host: 3000
+2021-10-17T09:39:18.478Z [Bioler plate] [32minfo[39m: the app is restarted atSun Oct 17 2021 12:39:18 GMT+0300 (East Africa Time)
+2021-10-17T09:39:18.482Z [Bioler plate] [33mwarn[39m: the app is running on local host: 3000
+2021-10-17T09:56:07.032Z [Bioler plate] [32minfo[39m: the app is restarted atSun Oct 17 2021 12:56:07 GMT+0300 (East Africa Time)
+2021-10-17T09:56:07.036Z [Bioler plate] [33mwarn[39m: the app is running on local host: 3000
+2021-10-17T10:00:34.057Z [Bioler plate] [32minfo[39m: the app is restarted atSun Oct 17 2021 13:00:34 GMT+0300 (East Africa Time)
+2021-10-17T10:00:34.061Z [Bioler plate] [33mwarn[39m: the app is running on local host: 3000
