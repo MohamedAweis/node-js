@@ -7,9 +7,10 @@ const login = (email, password) => {
 
     logger.info (`Authentication on email ${email} and password ${password}`);
     let user = userModel.getUserByEmailAndPassword(email, password);
+    console.log(user);
 
-    if(!user){
-        return new ApiError("Email or password does not match")
+    if(!user.length<1){
+        return new ApiError(200,"Email or password does not match")
 
     }
 

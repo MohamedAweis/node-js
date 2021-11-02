@@ -1,8 +1,9 @@
 const status = require('http-status');
 const logger = require('../config/logger');
-const authService = require('../service')
+const {authService} = require('../service')
+const {ApiResponse} = require('../payload/ApiResponse')
 
-exports.login = (req, res) => {
+const login = (req, res) => {
     
 
     let email = req.body.email;
@@ -17,8 +18,14 @@ exports.login = (req, res) => {
 
 
 
-exports.register = (req, res) => {
+const register = (req, res) => {
 
     res.status(status.NOT_IMPLEMENTED)
     .send('registered')
+}
+
+
+module.exports = {
+    login,
+    register
 }
