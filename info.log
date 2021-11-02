@@ -252,3 +252,71 @@
 2021-11-02T08:04:07.799Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234
 2021-11-02T08:04:19.070Z [Bioler Plate] [32minfo[39m: Authentication on email hhh and password 1234
 2021-11-02T08:04:25.177Z [Bioler Plate] [32minfo[39m: Authentication on email hhh and password 1
+2021-11-02T08:04:57.165Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 11:04:57 GMT+0300 (East Africa Time)
+2021-11-02T08:05:00.573Z [Bioler Plate] [32minfo[39m: Authentication on email hhh and password 1
+2021-11-02T08:09:47.016Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 11:09:47 GMT+0300 (East Africa Time)
+2021-11-02T08:10:16.388Z [Bioler Plate] [32minfo[39m: Authentication on email hhh and password 1
+2021-11-02T08:21:28.415Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 11:21:28 GMT+0300 (East Africa Time)
+2021-11-02T08:21:40.527Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234
+2021-11-02T08:21:43.473Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234
+2021-11-02T08:23:20.898Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 11:23:20 GMT+0300 (East Africa Time)
+2021-11-02T08:23:27.836Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234
+2021-11-02T08:26:51.652Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 11:26:51 GMT+0300 (East Africa Time)
+2021-11-02T08:26:54.847Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234
+2021-11-02T08:29:09.922Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 11:29:09 GMT+0300 (East Africa Time)
+2021-11-02T08:29:14.091Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234
+2021-11-02T08:31:01.735Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 11:31:01 GMT+0300 (East Africa Time)
+2021-11-02T08:31:14.553Z [Bioler Plate] [32minfo[39m: Authentication on email cgggg and password ffff
+2021-11-02T08:55:14.556Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 11:55:14 GMT+0300 (East Africa Time)
+2021-11-02T08:55:22.277Z [Bioler Plate] [32minfo[39m: Authentication on email cgggg and password ffff
+2021-11-02T08:55:23.727Z [Bioler Plate] [32minfo[39m: Authentication on email cgggg and password ffff
+2021-11-02T08:57:54.454Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 11:57:54 GMT+0300 (East Africa Time)
+2021-11-02T08:57:58.136Z [Bioler Plate] [32minfo[39m: Authentication on email cgggg and password ffff by using jwt
+2021-11-02T08:59:45.020Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 11:59:45 GMT+0300 (East Africa Time)
+2021-11-02T08:59:48.016Z [Bioler Plate] [32minfo[39m: Authentication on email cgggg and password ffff by using jwt
+2021-11-02T09:00:17.925Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 12:00:17 GMT+0300 (East Africa Time)
+2021-11-02T09:00:22.574Z [Bioler Plate] [32minfo[39m: Authentication on email cgggg and password ffff by using jwt
+2021-11-02T09:00:42.770Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 12:00:42 GMT+0300 (East Africa Time)
+2021-11-02T09:00:45.852Z [Bioler Plate] [32minfo[39m: Authentication on email cgggg and password ffff by using jwt
+2021-11-02T09:00:47.208Z [Bioler Plate] [32minfo[39m: Authentication on email cgggg and password ffff by using jwt
+2021-11-02T09:00:48.389Z [Bioler Plate] [32minfo[39m: Authentication on email cgggg and password ffff by using jwt
+2021-11-02T09:01:27.034Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T10:18:58.672Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 13:18:58 GMT+0300 (East Africa Time)
+2021-11-02T10:30:17.494Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 13:30:17 GMT+0300 (East Africa Time)
+2021-11-02T10:30:22.210Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T10:32:17.038Z [Bioler Plate] [32minfo[39m: Authentication on email hhhhhh and password 1234 by using jwt
+2021-11-02T10:32:24.417Z [Bioler Plate] [32minfo[39m: Authentication on email hhhhhh and password hhh by using jwt
+2021-11-02T11:04:10.323Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 14:04:10 GMT+0300 (East Africa Time)
+2021-11-02T11:04:14.992Z [Bioler Plate] [32minfo[39m: Authentication on email hhhhhh and password hhh by using jwt
+2021-11-02T11:04:58.729Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T11:06:23.998Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 14:06:23 GMT+0300 (East Africa Time)
+2021-11-02T11:06:30.308Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 12349 by using jwt
+2021-11-02T11:06:38.592Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T11:08:04.508Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 14:08:04 GMT+0300 (East Africa Time)
+2021-11-02T11:08:07.816Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T11:08:09.232Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T11:13:01.552Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 14:13:01 GMT+0300 (East Africa Time)
+2021-11-02T11:13:05.116Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T11:13:06.559Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T11:13:54.836Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 14:13:54 GMT+0300 (East Africa Time)
+2021-11-02T11:13:59.048Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T11:14:00.735Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T11:14:44.382Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 14:14:44 GMT+0300 (East Africa Time)
+2021-11-02T11:14:48.461Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T11:22:01.944Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 14:22:01 GMT+0300 (East Africa Time)
+2021-11-02T11:22:05.612Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T11:23:39.270Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 14:23:39 GMT+0300 (East Africa Time)
+2021-11-02T11:23:41.684Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T11:24:27.415Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 14:24:27 GMT+0300 (East Africa Time)
+2021-11-02T11:24:34.231Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T11:29:24.640Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 14:29:24 GMT+0300 (East Africa Time)
+2021-11-02T11:29:27.758Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T11:29:34.488Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 12348 by using jwt
+2021-11-02T18:36:08.101Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 21:36:08 GMT+0300 (East Africa Time)
+2021-11-02T18:37:01.519Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T18:59:21.084Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 21:59:21 GMT+0300 (East Africa Time)
+2021-11-02T18:59:25.143Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T19:00:04.084Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T19:48:35.622Z [Bioler Plate] [32minfo[39m: the app is running on http://localhost:3000  Tue Nov 02 2021 22:48:35 GMT+0300 (East Africa Time)
+2021-11-02T19:48:40.172Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt
+2021-11-02T19:48:50.293Z [Bioler Plate] [32minfo[39m: Authentication on email cali2@gmail.com and password 1234 by using jwt

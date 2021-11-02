@@ -42,11 +42,15 @@ app.use((req,res,next) => {
 
     let status = httpStatus.NOT_FOUND;
     let error = "Api not Found";
-    
-
-    res.status(status).send(new ApiError(status,error,stack=""));
+    res.status(status).send(new ApiError(status,error,));
 
 })
+
+// All error handling exception middleware
+
+/*app.use((err, req, res, next) => {
+    res.status(500).send(err)
+})*/
 
 
 

@@ -10,7 +10,8 @@ const login = (req, res) => {
     let password = req.body.password;
     let loginResponse = authService.login(email,password);
 
-    res.status(status.OK).send(new ApiResponse(loginResponse))
+    res.status(status.OK).send(new ApiResponse(status.OK,
+        "Login Successfully",loginResponse));
 
 
     
