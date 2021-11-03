@@ -1,41 +1,71 @@
 const oracledb = require('oracledb');
+const util = require("../utils/util");
 
-const host ='15.15.0.59:1521';
-const database = 'students';
-const username = 'mohamedah';
-const password = 'mohamedah';
-
-checkConnection();
-
-async function checkConnection() {
-
- try{
-
-    oracledb.initOracleClient({libDi: 'C:\\Users\Mohamed\Nodejs DB\instantclient_21_3'})
-
-    let connection = await oracledb.getConnection({
-        user: username,
-        password: password,
-        connectString: host + '/' + database
-
-    });
+const host     = process.env.DB_HOST;
+const database = process.env.DB_DATABASE;
+const username = process.env.DB_USERNAME;
+const password = process.env.DB_PASSWORD;
 
 
-    console.log('connected to databse');
+const executeQuery = async (query, params) => {
+  let connection;
+  try {
+      oracledb.initOracleClient({libDir: 'C:\\Users\\Mohamed\\Nodejs DB\\instantclient_21_3'});
 
-    let result = await connection.execute('SELECT * FROM nodejs');
-    console.log(result);
+      connection = await oracledb.getConnection({
+          username: username,
+          password: password,
+          connectString: host + '/' + database
+      });
 
-    // await connection.close();
+      let result = await connection.execute(query);
 
-    //'SELECT * FROM nodejs'
+
+      return util.parseDatabaseObject(result)
 
   }catch(err){
-      console.error(err);
-  }
+      console.log(`Error from database: ${err}`)
+      return null;
+  }finally{
+      //connection.close();
 
+  }
 }
 
 module.exports = {
-  checkConnection
+  executeQuery
 }
+
+
+// checkConnection();
+
+// async function checkConnection() {
+
+//  try{
+
+//     oracledb.initOracleClient({libDi: 'C:\\Users\Mohamed\Nodejs DB\instantclient_21_3'})
+
+//     let connection = await oracledb.getConnection({
+//         user: username,
+//         password: password,
+//         connectString: host + '/' + database
+
+//     });
+
+
+//     console.log('connected to databse');
+
+//     let result = await connection.execute('SELECT * FROM nodejs');
+//     console.log(result);
+
+    
+
+//   }catch(err){
+//       console.error(err);
+//   }
+
+// }
+
+// module.exports = {
+//   checkConnection
+// }

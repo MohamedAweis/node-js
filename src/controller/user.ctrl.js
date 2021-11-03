@@ -1,16 +1,17 @@
 const status = require('http-status');
 const logger = require('../config/logger');
+const {handleAsync} = require('../utils/util')
 const { ApiError } = require('../payload/ApiError');
 const { ApiResponse } = require('../payload/ApiResponse');
 const {userService} = require('../service');
 
 
-const getAllUsers = (req, res) =>{
+const getAllUsers = handleAsync(async (req, res) =>{
 
-   let users = userService.getAllUsers();
+   let users = await userService.getAllUsers();
    res.status(status.OK).send(new ApiError(status.OK, "ok", users));
 
-}
+});
 
 const getUserById = (req, res) =>{
 

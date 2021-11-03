@@ -1,8 +1,8 @@
 const logger = require('../config/logger');
-const {usermodel} = require('../model');
+const {userModel} = require('../model');
 
 const isEmailExist = (email) => {
-    if (usermodel.isEmailExist(email)){
+    if (userModel.isEmailExist(email)){
         return true;
     }
 
@@ -11,7 +11,7 @@ const isEmailExist = (email) => {
 
 
 const isIdExist = (id) => {
-    if (usermodel.isIdExist(id).length) {
+    if (userModel.isIdExist(id).length) {
         return true;
     } else {
         return false;
@@ -23,7 +23,7 @@ const createuser = (user) => {
 
     logger.info ("creating user");
 
-    let userCreate = usermodel.create(user);
+    let userCreate = userModel.create(user);
 
 
     return userCreate;
@@ -31,22 +31,22 @@ const createuser = (user) => {
 
 
 const updateUser = (id) => {
-    let userUpdate = usermodel.updateUser(id);
+    let userUpdate = userModel.updateUser(id);
     return userUpdate;
 }
 
 
 const deleteUser = (id) => {
     logger.info('delete user');
-    return usermodel.deleteUser(id);
+    return userModel.deleteUser(id);
 }
 
 
 
 
-const getAllUsers = () => {
+const getAllUsers = async () => {
 
-    return usermodel.getusers();
+    return userModel.getusers();
 }
 
 

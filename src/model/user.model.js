@@ -1,3 +1,6 @@
+const {ApiError} = require("../payload/ApiError");
+const db = require("../config/database");
+
 const users = [
     {
        id: "1",
@@ -23,9 +26,9 @@ const users = [
    //------------------//
    
    
-   const getusers = () => {
-       return users;
-   }
+   const getusers = async () => {
+    return await db.executeQuery(`SELECT *  FROM nodejs`);
+}
    
    const getuser = (email) => {
        return users.filter(u=>u.email===email);
