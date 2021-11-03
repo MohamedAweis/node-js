@@ -1,6 +1,6 @@
 const oracledb = require('oracledb');
 
-const host ='15.15.0.59:1512';
+const host ='15.15.0.59:1521';
 const database = 'students';
 const username = 'mohamedah';
 const password = 'mohamedah';
@@ -11,7 +11,7 @@ async function checkConnection() {
 
  try{
 
-    oracledb.initOracleClient({libDi: 'C:\Users\Mohamed\Nodejs DB\instantclient_21_3'})
+    oracledb.initOracleClient({libDi: 'C:\\Users\Mohamed\Nodejs DB\instantclient_21_3'})
 
     let connection = await oracledb.getConnection({
         user: username,
@@ -26,7 +26,7 @@ async function checkConnection() {
     let result = await connection.execute('SELECT * FROM nodejs');
     console.log(result);
 
-    await connection.close();
+    // await connection.close();
 
     //'SELECT * FROM nodejs'
 
@@ -34,4 +34,8 @@ async function checkConnection() {
       console.error(err);
   }
 
+}
+
+module.exports = {
+  checkConnection
 }

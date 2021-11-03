@@ -7,6 +7,7 @@ const httpStatus = require('http-status');
 const { ApiError } = require('./payload/ApiError');
 const helmet = require ('helmet');
 const cors = require ('cors');
+const checkConnection = require('../src/config/database')
 
 
 let app = express();
