@@ -9,7 +9,7 @@ const {userService} = require('../service');
 const getAllUsers = handleAsync(async (req, res) =>{
 
    let users = await userService.getAllUsers();
-   res.status(status.OK).send(new ApiError(status.OK, "ok", users));
+   res.status(status.OK).send(new ApiResponse(status.OK, "ok", users));
 
 });
 
