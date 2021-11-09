@@ -1,7 +1,9 @@
 const status = require('http-status');
 const logger = require('../config/logger');
-const {authService} = require('../service')
-const {ApiResponse} = require('../payload/ApiResponse')
+const {authService} = require('../service');
+const {ApiResponse} = require('../payload/ApiResponse');
+const {handleAsync} = require("../utils/util");
+const {ApiError} = require("../payload/ApiError");
 
 const login = (req, res) => {
     
@@ -21,11 +23,18 @@ const login = (req, res) => {
 
 
 
-const register = (req, res) => {
+const register = handleAsync(async(req, res) => {
 
-    res.status(status.NOT_IMPLEMENTED)
-    .send('registered')
-}
+    let user = req.body;
+    let {result, err} = await authService.register(user);
+
+    if (err){
+        return res.status(status.INTERNAL_SERVER_ERROR)
+            .send(new ApiError(status.INTERNAL_SERVER_ERROR, err));
+    }
+
+    res.status(status.OK).send(new ApiResponse(status.OK, res.__('registerSuccess')));
+});
 
 
 module.exports = {

@@ -6,19 +6,18 @@ const database = process.env.DB_DATABASE;
 const username = process.env.DB_USERNAME;
 const password = process.env.DB_PASSWORD;
 
-
+oracledb.initOracleClient({libDir: 'C:\\Users\\Mohamed\\Nodejs DB\\instantclient_21_3'});
 const executeQuery = async (query, params) => {
   let connection;
   try {
-      oracledb.initOracleClient({libDir: 'C:\\Users\\Mohamed\\Nodejs DB\\instantclient_21_3'});
-
       connection = await oracledb.getConnection({
           username: username,
           password: password,
           connectString: host + '/' + database
       });
 
-      let result = await connection.execute(query);
+      let result = await connection.execute(query, params);
+      connection.commit();
 
 
       return util.parseDatabaseObject(result)

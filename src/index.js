@@ -11,8 +11,8 @@ const cookieParser = require("cookie-parser");
 
 
 
-let app = express();
-let port = process.env.PORT;
+const app = express();
+const port = process.env.PORT;
 
 
 /**
@@ -56,7 +56,7 @@ app.use(i18n.init)
 // Router middleware
 // @type (Router)
 
-let routeCatalog = require('./routes/v1');
+const routeCatalog = require('./routes/v1');
 const { error } = require('winston');
 app.use(process.env.API_VERSION, routeCatalog);
 
@@ -73,9 +73,9 @@ app.use((req,res,next) => {
 
 // All error handling exception middleware
 
-/*app.use((err, req, res, next) => {
+app.use((err, req, res, next) => {
     res.status(500).send(err)
-})*/
+})
 
 
 

@@ -1,4 +1,6 @@
 {
   "amountTransfer": "lacagtaada waa la wareejiyay",
-  "loginSuccess": "waaku xerantay %s"
+  "loginSuccess": "waad gashay %s",
+  "registerSuccess": "Waa lagu diiwaan galiyay Fadlan hubi iimaylkaga si aad u xaqiijiso akoonkaaga",
+  "registerError": "Wax baa ka khaldamay diiwaangelinta fadlan isku day mar kale"
 }
