@@ -11,7 +11,7 @@ const login = async (email, password) => {
     let user = await userModel.getUserByEmailAndPassword(email, password);
     console.log(user);
 
-    if(!user || user.length <= 0){
+    if(user.length <= 0){
         throw new ApiError(401,"Email or password does not match")
 
     }
@@ -35,6 +35,7 @@ const register = async (user) => {
 
     return {result, err};
 }
+
 
 
 module.exports = {

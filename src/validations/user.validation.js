@@ -1,23 +1,20 @@
  const joi = require('joi');
 
  const createUser = joi.object({
-     id: joi.string().required(),
-     firstName: joi.string().required(),
-     middletName: joi.string().optional(),
-     lastName: joi.string().required(),
+    //  id: joi.string().required(),
      email: joi.string().required().email(),
      password: joi.string().required(),
-     age: joi.string().required().min(1).max(120)
+     fullName: joi.string().required(),
+     active: joi.number().required(),
 
  });
 
 
  const updateUser = joi.object({
-    id: joi.string().required(),
-    firstName: joi.string().required(),
-    middletName: joi.string().optional().empty(),
-    lastName: joi.string().required(),
-    age: joi.string().required().min(1).max(120)
+    userId: joi.number().required(),
+    password: joi.string().required(),
+    fullName: joi.string().required(),
+    active: joi.number().required(),
 
 });
 

@@ -10,8 +10,8 @@ const isEmailExist = (email) => {
 }
 
 
-const isIdExist = (id) => {
-    if (userModel.isIdExist(id).length) {
+const isIdExist = async(userId) => {
+    if (await userModel.isIdExist(userId)) {
         return true;
     } else {
         return false;
@@ -30,8 +30,8 @@ const createuser = (user) => {
 }
 
 
-const updateUser = (id) => {
-    let userUpdate = userModel.updateUser(id);
+const updateUser = async(userId) => {
+    let userUpdate = await userModel.updateUser(userId);
     return userUpdate;
 }
 

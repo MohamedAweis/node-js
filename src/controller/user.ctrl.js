@@ -49,14 +49,25 @@ const createUser = (req, res) =>{
 
 
 //update user
-const updateUser = (req, res) => {
-    let user = req.body.id;
-    if (userService.isIdExist(user)) {
-        let userUpdated = userService.updateUser(req.body);
-        res.status(status.OK).send({message: `User with the id: ${user} is updated`});
+const updateUser =  handleAsync(async(req, res) => {
+    logger.info('calling update user');
+
+    let user = req.body;
+    
+    if (userService.isIdExist(user.userId)){
+        console.log(user);
+
+        let userUpdated = await userService.updateUser(user);
+        // if (userUpdated){
+            res.status(status.OK).send(new ApiResponse(status.OK, res.__("userisupdated"),[]));
+            
+        // }
+
     }
-    res.status(status.NOT_FOUND).send(status.NOT_FOUND,message= 'This user does not exist');
-};
+
+
+    throw new ApiError(status.INTERNAL_SERVER_ERROR, "update user Error");
+});
 
 
 

@@ -16,7 +16,7 @@ const executeQuery = async (query, params) => {
           connectString: host + '/' + database
       });
 
-      let result = await connection.execute(query, params);
+      let result = await connection.execute(query,params);
       connection.commit();
 
 

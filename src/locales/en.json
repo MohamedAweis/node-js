@@ -1,6 +1,8 @@
 {
-  "amountTransfer": "your amount has been transferred",
-  "loginSuccess": "You have been logged in %s",
-  "registerSuccess": "You have been registered. Please check your email to verify account",
-  "registerError": "Something went wrong with the registration please try again"
+	"amountTransfer": "your amount has been transferred",
+	"loginSuccess": "You have been logged in %s",
+	"registerSuccess": "You have been registered. Please check your email to verify account",
+	"registerError": "Something went wrong with the registration please try again",
+	"user already exist": "user already exist",
+	"userisupdated": "user is updated"
 }

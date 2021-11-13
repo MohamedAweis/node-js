@@ -7,10 +7,12 @@ const login = joi.object({
 });
 
 const register = joi.object({
+    
     fullName: joi.string().required(),
     email: joi.string().required(),
     password: joi.string(),
     confirmPassword: joi.ref('password'),
+    active: joi.number()
 
 
 });
