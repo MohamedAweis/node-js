@@ -21,31 +21,27 @@ const getUserById = (req, res) =>{
     
 }
 
-const createUser = (req, res) =>{
-
-
+const createUser = handleAsync(async(req, res) =>{
     logger.info('calling create user');
-
-
     let user = req.body;
     //console.log(user);
 
     if (userService.isEmailExist(user.email)){
 
-        return res.status(status.NOT_ACCEPTABLE).send(new ApiError(status.NOT_ACCEPTABLE, "user already exist"));
+        return res.status(status.NOT_ACCEPTABLE).send(new ApiError(status.NOT_ACCEPTABLE, "User already exist"));
 
     }
 
-    let createUserStatus = userService.createuser(user);
+    let createUserStatus = await userService.createuser(user);
     if (createUserStatus){
-        return res.status(status.OK).send( new ApiResponse(status.OK, "user is created"));
+        res.status(status.OK).send( new ApiResponse(status.OK, "User is created"));
         
     }
 
 
-    return res.status(status.OK).send(new ApiResponse(status.OK, "something went wrong"));
+    throw new ApiError(status.INTERNAL_SERVER_ERROR,"something went wrong");
     
-}
+});
 
 
 //update user
@@ -62,9 +58,7 @@ const updateUser =  handleAsync(async(req, res) => {
             res.status(status.OK).send(new ApiResponse(status.OK, res.__("userisupdated"),[]));
             
         // }
-
     }
-
 
     throw new ApiError(status.INTERNAL_SERVER_ERROR, "update user Error");
 });
@@ -84,16 +78,6 @@ const deleteUser = (req, res) => {
 
 
 
-// const updateUser = (req, res) =>{
-
-//     res
-//     .status(status.NOT_IMPLEMENTED)
-//     .send(
-//         {message: "NOT_IMPLEMENTED"}
-        
-//      );
-    
-// }
 
 module.exports = {
 

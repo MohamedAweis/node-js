@@ -96,8 +96,14 @@ const users = [
    
    //.........//
    
-   const isEmailExist = (email) => {
-       return users.filter(u=>u.email===email).length > 0;
+   const isEmailExist = async(email) => {
+    let result = await db.executeQuery(` select *
+    from USERS
+        where EMAIL=:email`, [userId]);
+   if (result[0].IDALREADYEXIST > 0)
+       return true;
+
+   return false;
    }
    
    const isIdExist = async(userId) => {
